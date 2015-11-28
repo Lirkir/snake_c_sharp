@@ -1,0 +1,6 @@
+D:\Education\University\Project\Visual Studio\snake_c_sharp\Snake_c_sharp\Snake_c_sharp\bin\Debug\Snake_c_sharp.exe.config
+D:\Education\University\Project\Visual Studio\snake_c_sharp\Snake_c_sharp\Snake_c_sharp\bin\Debug\Snake_c_sharp.exe
+D:\Education\University\Project\Visual Studio\snake_c_sharp\Snake_c_sharp\Snake_c_sharp\bin\Debug\Snake_c_sharp.pdb
+D:\Education\University\Project\Visual Studio\snake_c_sharp\Snake_c_sharp\Snake_c_sharp\obj\Debug\Snake_c_sharp.csprojResolveAssemblyReference.cache
+D:\Education\University\Project\Visual Studio\snake_c_sharp\Snake_c_sharp\Snake_c_sharp\obj\Debug\Snake_c_sharp.exe
+D:\Education\University\Project\Visual Studio\snake_c_sharp\Snake_c_sharp\Snake_c_sharp\obj\Debug\Snake_c_sharp.pdb
